@@ -10,7 +10,7 @@
 <div>
 | `chartreuse-dark` ![chartreuse-dark][chartreuse-dark] | `nord` ![nord][nord] | `gotham` ![gotham][gotham] |
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanPrates-1_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanPrates-1icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <div>

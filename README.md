@@ -8,9 +8,9 @@
  <a href "https://github.com/LuanPrates-1/LuanPrates-1/edit/main/README.md">
 
 <div>
+| `chartreuse-dark` ![chartreuse-dark][chartreuse-dark] | `nord` ![nord][nord] | `gotham` ![gotham][gotham] |
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=luanPrates-1)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanPrates-1| `chartreuse-dark` ![chartreuse-dark][chartreuse-dark] | `nord` ![nord][nord] | `gotham` ![gotham][gotham] |)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <div>

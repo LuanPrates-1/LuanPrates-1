@@ -1,4 +1,4 @@
-👋 Olá, eu sou Luan Prates
+# Olá, eu sou Luan Prates
 👀 Tenho interesse em Desenvolvimento de Software e Desenvolvimento Web.
 🌱 Atualmente estou aprendendo Javascript.
 💞️ Estou procurando colaborar em projetos open-source e iniciativas de aprendizado de máquina.

@@ -9,7 +9,7 @@
 
 <div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanPrates-1)
+![](https://github-readme-stats.vercel.app/api?username=LuanPrates-1)
 
 </div>
 

@@ -1,6 +1,6 @@
 # Olá, eu sou Luan Prates
 <div>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/luanPrates-1/=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?luanPrates-1=anuraghazra&show_icons=true&theme=transparent)
  
 </div>
 

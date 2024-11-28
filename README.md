@@ -7,7 +7,7 @@
 
 <div>
  <a href "https://github.com/LuanPrates-1/LuanPrates-1/edit/main/README.md">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?luanPrates-1=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
  
 </div>
 

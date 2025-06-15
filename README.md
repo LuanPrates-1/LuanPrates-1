@@ -59,6 +59,13 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 
+ <img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+          
+
 <img 
     align="left" 
     alt="JQuery" 

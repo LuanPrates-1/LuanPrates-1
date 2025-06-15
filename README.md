@@ -15,6 +15,16 @@
 
 ### 🤖 Linguagens e Tecnologias
 
+
+
+
+ <img 
+   align="left" 
+    alt="C#"
+    title="csharp" 
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+          
 <img 
     align="left" 
     alt="HTML"

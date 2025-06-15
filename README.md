@@ -33,9 +33,7 @@ Tenho 23 anos, sou de Campinas-SP e atualmente estou cursando o 3º semestre de 
 
 ---
 
-### **Conecte-se Comigo**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/luan-prates-25557519b])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-prates-25557519b)
 ---
 
 ### 📊 Estatísticas
